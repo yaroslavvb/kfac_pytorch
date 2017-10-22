@@ -20,7 +20,7 @@ Step   9 loss 38.781795502
 Times: min: 388.66, median: 400.81, mean: 2198.33
 
 ```
-Write-up: [Optimizing deeper networks with KFAC in PyTorch.](https://medium.com/@yaroslavvb/optimizing-deeper-networks-with-kfac-in-pytorch-4004adcba1b0)
-Experiments: [deep_autoencoder.ipynb](https://github.com/yaroslavvb/kfac_pytorch/blob/master/deep_autoencoder.ipynb)
+- Write-up: [Optimizing deeper networks with KFAC in PyTorch.](https://medium.com/@yaroslavvb/optimizing-deeper-networks-with-kfac-in-pytorch-4004adcba1b0)
+- Experiments: [deep_autoencoder.ipynb](https://github.com/yaroslavvb/kfac_pytorch/blob/master/deep_autoencoder.ipynb)
 
 ![test losses](https://i.stack.imgur.com/rvSgt.png)
