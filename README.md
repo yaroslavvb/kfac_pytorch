@@ -6,3 +6,5 @@ Usage:
 ```
 python kfac_pytorch.py
 ```
+
+![test losses](https://i.stack.imgur.com/rvSgt.png)
